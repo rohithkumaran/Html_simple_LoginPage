@@ -1,0 +1,39 @@
+body{
+    margin: 0 auto;
+    width:fit-content;
+background-color: chocolate;
+position: relative;
+    top:150px;
+    border: 9px solid yellow;
+}
+div{
+    
+    border: 3px solid black;
+width:300px;
+text-align: center;
+}
+input{
+    outline: none;
+    display:inline; 
+    margin:7px 0 7px 0;
+    padding:7px;
+    border-radius: 15px;
+    border-color: blue;
+}
+label{
+    display: inline;
+    font-weight: bolder;
+    font-size:22px;
+}
+#male,#female{
+    display: inline;
+    margin: 15px;
+}
+form{
+
+    margin: 0 auto;
+    max-width: fit-content;
+    border: 2ps solid rgb(49, 151, 49);
+    padding: 20px; 
+    background-color:chartreuse;
+}
